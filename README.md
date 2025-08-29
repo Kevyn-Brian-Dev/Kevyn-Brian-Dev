@@ -23,3 +23,9 @@
   <a href="https://www.linkedin.com/in/kevyn-brian-8204a7344" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+##
+<div aling ="center">
+
+  <img src="https://raw.githubusercontent.com/Kevyn-Brian-Dev/Kevyn-Brian-Dev/output/snake.svg" alt="Snake animation" />
+</div>
